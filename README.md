@@ -14,3 +14,7 @@ This is not to plan the whole trip, but to get some night train ideas to then in
 
 I could use https://github.com/public-transport/db-hafas (they also list alternatives at the end of the readme)
 API docs at https://github.com/public-transport/hafas-client/tree/5/docs
+
+## Data populating strategly
+
+I need to come up with a process on how to detect night trains in a way that minimises the number of queries.

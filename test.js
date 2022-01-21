@@ -4,6 +4,7 @@ const hafas = createHafas("gaurail");
 
 // Berlin Jungfernheide to München Hbf
 hafas
-  .journeys("8011167", "8000261", { results: 1 })
-  .then(({ journeys }) => console.log(journeys[0]))
+  .departures("8000261")
+  //   .journeys("8011167", "8000261", { results: 1 })
+  .then((result) => console.log(JSON.stringify(result, null, 2)))
   .catch(console.error);
