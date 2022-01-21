@@ -1,0 +1,11 @@
+{
+  "name": "gaurail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hanbzu/gaurail.git",
+  "author": "Hibai Unzueta <hibai.unzueta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "db-hafas": "^5.0.2"
+  }
+}

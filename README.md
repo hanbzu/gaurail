@@ -9,3 +9,8 @@ It'd be easy to answer questions like:
 - If I want to arrive to this place, where can I travel from with a night train?
 
 This is not to plan the whole trip, but to get some night train ideas to then include in the trip.
+
+## API
+
+I could use https://github.com/public-transport/db-hafas (they also list alternatives at the end of the readme)
+API docs at https://github.com/public-transport/hafas-client/tree/5/docs
